@@ -1,4 +1,4 @@
-import { FaBatteryFull, FaVolumeUp, FaSpeakerDeck } from "react-icons/fa";
+import { FaBatteryFull, FaVolumeUp } from "react-icons/fa";
 import { MdDevices, MdAssistant, MdSpeaker } from 'react-icons/md';
 
 export default function About() {
