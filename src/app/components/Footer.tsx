@@ -1,7 +1,6 @@
 'use client';
 
 import React, { useState } from 'react';
-import { ArrowRight } from 'lucide-react';
 
 const Footer: React.FC = () => {
   const [email, setEmail] = useState('');
