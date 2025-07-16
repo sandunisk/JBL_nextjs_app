@@ -1,5 +1,5 @@
 'use client';
-import Link from "next/link";
+
 import { Search, ShoppingCart } from 'lucide-react';
 
 export default function NavBar() {
